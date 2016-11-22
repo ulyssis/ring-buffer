@@ -1,6 +1,5 @@
 #some comments by Di Li
 #some random stuff.......
-
 (ns amalloy.ring-buffer)
 
 ;; TODO: If one of our numbers gets over 2 billion, the user's ring buffer is way too large!
