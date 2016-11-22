@@ -1,3 +1,4 @@
+#hello! Haha
 (defproject amalloy/ring-buffer "1.2"
   :description "Persistent bounded-size queue implementation in Clojure"
   :url "http://github.com/amalloy/ring-buffer"
