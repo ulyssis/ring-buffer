@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 #hello! Haha
 (defproject amalloy/ring-buffer "1.2"
+=======
+(defproject amalloy/ring-buffer "1.2.1"
+>>>>>>> a57aa49ae8cb6837d4a5129d3133f88e5974c2db
   :description "Persistent bounded-size queue implementation in Clojure"
   :url "http://github.com/amalloy/ring-buffer"
   :license {:name "Eclipse Public License"
